@@ -9,8 +9,8 @@ You can use in two mode
 
 # 2.multyPlayer
 
-you need to serve a server.
+    you need to serve a server.
 
-initilize server ip in multiplayer page!
+    initilize server in in multiplayer page!
 
 then start gamig 4 vs 4
